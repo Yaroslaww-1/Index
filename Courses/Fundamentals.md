@@ -90,7 +90,7 @@
 - [Структуры данных: списки, стек, очередь, дэк в JavaScript](https://youtu.be/9KvA4hDDSjk)
   - Списки: https://github.com/HowProgrammingWorks/LinkedList
   - Очереди: https://github.com/HowProgrammingWorks/Dequeue
-- [Сериализация и десериализация в JavaScript и Node.js](https://youtu.be/GtKPniOEzh8)
+- ~~[Сериализация и десериализация в JavaScript и Node.js](https://youtu.be/GtKPniOEzh8)~~
   - Примеры кода: https://github.com/HowProgrammingWorks/Serialization
 - [Рефакторинг: причины, цели, техники и процесс](https://youtu.be/z73wmpdweQ4)
   - Примеры кода: https://github.com/HowProgrammingWorks/Refactoring
