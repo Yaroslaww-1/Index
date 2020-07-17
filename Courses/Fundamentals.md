@@ -92,7 +92,7 @@
   - Очереди: https://github.com/HowProgrammingWorks/Dequeue
 - ~~[Сериализация и десериализация в JavaScript и Node.js](https://youtu.be/GtKPniOEzh8)~~
   - Примеры кода: https://github.com/HowProgrammingWorks/Serialization
-- [Рефакторинг: причины, цели, техники и процесс](https://youtu.be/z73wmpdweQ4)
+- ~~[Рефакторинг: причины, цели, техники и процесс](https://youtu.be/z73wmpdweQ4)~~
   - Примеры кода: https://github.com/HowProgrammingWorks/Refactoring
   - Пример проекта: https://github.com/tshemsedinov/node-mysql-utilities
 - Семинар: [Выбор направления в программировании](https://youtu.be/1gL627DQF4A)
