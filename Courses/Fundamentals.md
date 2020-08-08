@@ -103,7 +103,7 @@
   - Примеры кода: https://github.com/HowProgrammingWorks/RegExp
 - ~~[Композиция: pipe, compose](https://youtu.be/xS9FicVrOTI)~~
   - Примеры кода: https://github.com/HowProgrammingWorks/Composition
-- [Примеси: mixin, extend, Object.assign, class λ-mixin](https://youtu.be/NZMrJ2adEyY)
+- ~~[Примеси: mixin, extend, Object.assign, class λ-mixin](https://youtu.be/NZMrJ2adEyY)~~
   - Тема class λ-mixin из этой лекции не обязательна для модуля SEF1
   - Примеры кода: https://github.com/HowProgrammingWorks/Mixin
   - Старая версия лекции: https://youtu.be/2h9syXN5wO0
