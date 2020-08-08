@@ -96,7 +96,7 @@
   - Примеры кода: https://github.com/HowProgrammingWorks/Refactoring
   - Пример проекта: https://github.com/tshemsedinov/node-mysql-utilities
 - Семинар: [Выбор направления в программировании](https://youtu.be/1gL627DQF4A)
-- [Proxy и Symbol в JavaScript](https://youtu.be/UjZjSDyi9AM)
+- ~~[Proxy и Symbol в JavaScript](https://youtu.be/UjZjSDyi9AM)~~
   - Прокси: https://github.com/HowProgrammingWorks/Proxy
   - Символы: https://github.com/HowProgrammingWorks/Symbol
 - [Регулярные выражения и парсинг в JavaScript](https://youtu.be/-ef2E0ozxao)
