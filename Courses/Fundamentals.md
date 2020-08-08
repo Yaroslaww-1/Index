@@ -101,7 +101,7 @@
   - Символы: https://github.com/HowProgrammingWorks/Symbol
 - [Регулярные выражения и парсинг в JavaScript](https://youtu.be/-ef2E0ozxao)
   - Примеры кода: https://github.com/HowProgrammingWorks/RegExp
-- [Композиция: pipe, compose](https://youtu.be/xS9FicVrOTI)
+- ~~[Композиция: pipe, compose](https://youtu.be/xS9FicVrOTI)~~
   - Примеры кода: https://github.com/HowProgrammingWorks/Composition
 - [Примеси: mixin, extend, Object.assign, class λ-mixin](https://youtu.be/NZMrJ2adEyY)
   - Тема class λ-mixin из этой лекции не обязательна для модуля SEF1
