@@ -107,10 +107,10 @@
   - Тема class λ-mixin из этой лекции не обязательна для модуля SEF1
   - Примеры кода: https://github.com/HowProgrammingWorks/Mixin
   - Старая версия лекции: https://youtu.be/2h9syXN5wO0
-- [Прототипное программирование и прототипное наследование](https://youtu.be/SzaXTW2qcJE)
+- ~~[Прототипное программирование и прототипное наследование](https://youtu.be/SzaXTW2qcJE)~~
   - Примеры кода: https://github.com/HowProgrammingWorks/PrototypeChain
   - Слайды: https://www.slideshare.net/tshemsedinov/prototype-programming-in-javascript
-- [Мемоизация: memoize](https://youtu.be/H6S8QJo2Qxg)
+- ~~[Мемоизация: memoize](https://youtu.be/H6S8QJo2Qxg)~~
   - Примеры кода: https://github.com/HowProgrammingWorks/Memoization
   - Старая версия лекции: https://youtu.be/2h9syXN5wO0
 - [Фабрики и пулы объектов в JavaScript, factorify, poolify](https://youtu.be/Ax_mSvadFp8)
